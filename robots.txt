@@ -1,0 +1,14 @@
+# ==================================================
+# HAIDA TYRE QAZAQSTAN
+# robots.txt
+# ==================================================
+
+User-agent: *
+
+Allow: /
+
+Disallow:
+
+Sitemap: https://haidakz01.github.io/haida/sitemap.xml
+
+Host: https://haidakz01.github.io/haida/
