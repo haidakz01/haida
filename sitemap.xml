@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <url>
+        <loc>https://haidakz01.github.io/haida/</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.00</priority>
+    </url>
+
+    <url>
+        <loc>https://haidakz01.github.io/haida/catalog.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <url>
+        <loc>https://haidakz01.github.io/haida/about.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://haidakz01.github.io/haida/dealers.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <url>
+        <loc>https://haidakz01.github.io/haida/delivery.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <url>
+        <loc>https://haidakz01.github.io/haida/contacts.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+</urlset>
